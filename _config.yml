@@ -1,3 +1,6 @@
 theme: jekyll-theme-slate
 title: rainbowgeeks
+github:
+  is_project_page: true
+  repository_url: https://github.com/rainbowgeeks/rainbowgeeks
 
