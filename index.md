@@ -1,5 +1,10 @@
 # rainbowgeeks Volunteering Application
 
+## Goals
+
+The goal of this application is to ease the user's experiance when it comes to finding, applying, and volunteering for an orginization. This will be done by matching a user's prefrencese to the orginizations stored in our database and then keeping track of the user's volunterring hours. At the same time the orginization will be able to register their orginization to our database. 
+
+The tool we we will be using for this application is MATRP.
 
 ## About MATRP
 
@@ -152,7 +157,10 @@ The application implements a simple CRUD application for managing "Stuff", which
 
 By default, each user only sees the Stuff that they have created.  However, the settings file enables you to define default accounts.  If you define a user with the role "admin", then that user gets access to a special page which lists all the Stuff defined by all users.
 
-#### Landing page
+## Mock Up Pages
+
+Here are some of the pages we plan to build.
+#### Home Page
 
 When you retrieve the app at http://localhost:3000, this is what should be displayed:
 
