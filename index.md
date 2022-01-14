@@ -255,7 +255,7 @@ Each AdminProfiles document has the following fields: email, firstName, lastName
 
 The AdminProfiles collections is defined in [imports/api/user/AdminProfileCollection.js](https://github.com/ics-software-engineering/matrp/blob/master/app/imports/api/user/AdminProfileCollection.js).
 
-## Contact Us
+## Contact
 
 [John Suelen] 
 
