@@ -1,1 +1,1 @@
-This repo contains the documentation for the Volunteering matcher application, https://rainbowgeeks.github.io/.
+This repo contains the documentation for the rainbowgeeks volunteering application. See [index.md](https://github.com/rainbowgeeks/rainbowgeeks.github.io/blob/main/index.md) or https://rainbowgeeks.github.io/, for more details.
