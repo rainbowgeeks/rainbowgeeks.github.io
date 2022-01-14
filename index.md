@@ -1,7 +1,10 @@
 # rainbowgeeks Volunteering Application
-![](https://raw.githubusercontent.com/ics-software-engineering/matrp/master/doc/landing-page.png)
+
 
 ## About MATRP
+
+![](https://raw.githubusercontent.com/ics-software-engineering/matrp/master/doc/landing-page.png)
+
 MATRP, an extension of [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/), is a sample Meteor 2.3 application that illustrates:
 
   * A standard directory layout using 'imports/' as recommended in the [Meteor Guide](https://guide.meteor.com/structure.html)
@@ -19,7 +22,7 @@ MATRP, an extension of [meteor-application-template-react](https://ics-software-
 
 The goal of this template is to help you get quickly started doing Meteor development by providing a reasonable directory structure for development and deployment, a set of common extensions to the core framework, and boilerplate code to implement basic page display, navigation, forms, roles, and collection manipulation.
 
-## Installation
+### Installation
 
 First, [install Meteor](https://www.meteor.com/install).
 
@@ -33,7 +36,7 @@ Fourth, cd into the app/ directory of your local copy of the repo, and install t
 $ meteor npm install
 ```
 
-## Running the system
+### Running the system
 
 Once the libraries are installed, you can run the application by invoking the "start" script in the [package.json file](https://github.com/ics-software-engineering/matrp/blob/master/app/package.json):
 
@@ -83,7 +86,7 @@ You can verify that the code obeys our coding standards by running ESLint over t
 meteor npm run lint
 ```
 
-## Walkthrough
+### Walkthrough
 
 The following sections describe the major features of this template.
 
