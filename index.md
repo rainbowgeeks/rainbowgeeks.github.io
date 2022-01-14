@@ -251,36 +251,6 @@ Each AdminProfiles document has the following fields: email, firstName, lastName
 
 The AdminProfiles collections is defined in [imports/api/user/AdminProfileCollection.js](https://github.com/ics-software-engineering/matrp/blob/master/app/imports/api/user/AdminProfileCollection.js).
 
-### CSS
-
-The application uses the [React implementation of Semantic UI](http://react.semantic-ui.com/).
-
-### Routing
-
-For display and navigation among its four pages, the application uses [React Router](https://reacttraining.com/react-router/).
-
-Routing is defined in [imports/ui/layouts/App.jsx](https://github.com/ics-software-engineering/matrp/blob/master/app/imports/ui/layouts/App.jsx).
-
-
-### Authentication
-
-For authentication, the application uses the Meteor accounts package.
-
-When the application is run for the first time, a settings file (such as [config/settings.development.json](https://github.com/ics-software-engineering/matrp/blob/master/config/settings.development.json)) should be passed to Meteor. That will lead to a default account being created through the code in [imports/startup/server/accounts.js](https://github.com/ics-software-engineering/matrp/blob/master/app/imports/startup/server/accounts.js).
-
-The application allows users to register and create new accounts at any time.
-
-### Authorization
-
-Only logged-in users can manipulate Stuff documents (but any registered user can manipulate any Stuff document, even if they weren't the user that created it.)
-
-### Configuration
-
-The [config](https://github.com/ics-software-engineering/matrp/tree/master/config) directory is intended to hold settings files.  The repository contains one file: [config/settings.development.json](https://github.com/ics-software-engineering/matrp/blob/master/config/settings.development.json).
-
-The [.gitignore](https://github.com/ics-software-engineering/matrp/blob/master/.gitignore) file prevents a file named settings.production.json from being committed to the repository. So, if you are deploying the application, you can put settings in a file named settings.production.json and it will not be committed.
-
-
 ## Contact Us
 
 [John Suelen] 
