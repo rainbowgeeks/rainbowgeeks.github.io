@@ -6,7 +6,7 @@ The goal of this application is to ease the user's experiance when it comes to f
 The tool we we will be using for this application is MATRP.
 
 
-## Contact
+## Team Members
 
 [John Suelen] 
 
