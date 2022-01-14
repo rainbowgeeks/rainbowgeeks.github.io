@@ -6,7 +6,7 @@ The goal of this application is to ease the user's experiance when it comes to f
 
 The tool we we will be using for this application is MATRP.
 
-## About MATRP
+### About MATRP
 
 ![](https://raw.githubusercontent.com/ics-software-engineering/matrp/master/doc/landing-page.png)
 
@@ -27,7 +27,7 @@ MATRP, an extension of [meteor-application-template-react](https://ics-software-
 
 The goal of this template is to help you get quickly started doing Meteor development by providing a reasonable directory structure for development and deployment, a set of common extensions to the core framework, and boilerplate code to implement basic page display, navigation, forms, roles, and collection manipulation.
 
-### Installation
+#### Installation
 
 First, [install Meteor](https://www.meteor.com/install).
 
@@ -41,7 +41,7 @@ Fourth, cd into the app/ directory of your local copy of the repo, and install t
 $ meteor npm install
 ```
 
-### Running the system
+#### Running the system
 
 Once the libraries are installed, you can run the application by invoking the "start" script in the [package.json file](https://github.com/ics-software-engineering/matrp/blob/master/app/package.json):
 
@@ -79,11 +79,11 @@ I20210801-10:48:51.864(-10)? Monti APM: completed instrumenting the app
 ```
 
 
-### Viewing the running app
+#### Viewing the running app
 
 If all goes well, the template application will appear at [http://localhost:3000](http://localhost:3000).  You can login using the credentials in [settings.development.json](https://github.com/ics-software-engineering/matrp/blob/master/config/settings.development.json), or else register a new account.
 
-### ESLint
+#### ESLint
 
 You can verify that the code obeys our coding standards by running ESLint over the code in the imports/ directory with:
 
@@ -91,11 +91,11 @@ You can verify that the code obeys our coding standards by running ESLint over t
 meteor npm run lint
 ```
 
-### Walkthrough
+#### Walkthrough
 
 The following sections describe the major features of this template.
 
-### Directory structure
+#### Directory structure
 
 The top-level directory structure is:
 
@@ -147,11 +147,11 @@ server/
 tests/           # TestCafe acceptance tests.
 ```
 
-### Import conventions
+#### Import conventions
 
 This system adheres to the Meteor guideline of putting all application code in the imports/ directory, and using client/main.js and server/main.js to import the code appropriate for the client and server in an appropriate order.
 
-### Application functionality
+#### Application functionality
 
 The application implements a simple CRUD application for managing "Stuff", which is a Mongo Collection consisting of a name (String), a quantity (Number), and a condition (one of 'excellent', 'good', 'fair', or 'poor').
 
