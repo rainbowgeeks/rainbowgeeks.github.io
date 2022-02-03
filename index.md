@@ -23,7 +23,7 @@ The tool we we will be using for this application is MATRP.
 ![](doc/image/add-profile-mock-up-page.JPG)
 
 ### Admin Profile Page
-![](doc/image/Admin-profile-mock-up-page.JPG)
+![](doc/image/admin-profile-page-mockup.png)
 
 ### Browse Opportunities Page
 ![](doc/image/Browse%20Opportunities-mock-up.JPG)
