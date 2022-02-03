@@ -14,28 +14,28 @@ The tool we we will be using for this application is MATRP.
 ![](image/login-page.JPG)
 
 ### Sign Up Page
-![](/image/sign-up-page.JPG)
+![](image/sign-up-page.JPG)
 
 ### Navigation Bar
-![](/image/nav-bar-mock-up-not-signed-in.JPG)
+![](image/nav-bar-mock-up-not-signed-in.JPG)
 
 ### Add Profile Page
-![](/image/add-profile-mock-up-page.JPG)
+![](image/add-profile-mock-up-page.JPG)
 
 ### Admin Profile Page
-![](/image/Admin-profile-mock-up-page.JPG)
+![](image/Admin-profile-mock-up-page.JPG)
 
 ### Browse Opportunities Page
-![](/image/Browse%20Opportunities-mock-up.JPG)
+![](image/Browse%20Opportunities-mock-up.JPG)
 
 ### Edit Profile Page
-![](/image/update-profile-mock-up-page.JPG)
+![](image/update-profile-mock-up-page.JPG)
 
 ### Organization Library Page
-![](/image/Organization-Library-mock-up-page.JPG)
+![](image/Organization-Library-mock-up-page.JPG)
 
 ### User Profile Page
-![](/image/profile-page-mock-up.JPG)
+![](image/profile-page-mock-up.JPG)
 
 
 ## Team Members
