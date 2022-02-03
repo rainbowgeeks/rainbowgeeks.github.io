@@ -8,10 +8,10 @@ The tool we we will be using for this application is MATRP.
 ## VolunteerAlly Web Application Mock-up Pages
 
 ### Home Page
-![](/image/home-page-mock-up.JPG)
+![](image/home-page-mock-up.JPG)
 
 ### Login Page
-![](/image/login-page.JPG)
+![](image/login-page.JPG)
 
 ### Sign Up Page
 ![](/image/sign-up-page.JPG)
