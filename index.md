@@ -8,34 +8,34 @@ The tool we we will be using for this application is MATRP.
 ## VolunteerAlly Web Application Mock-up Pages
 
 ### Home Page
-![alt text](/image/home-page-mock-up.JPG)
+![](/image/home-page-mock-up.JPG)
 
 ### Login Page
-![alt text](/image/login-page.JPG)
+![](/image/login-page.JPG)
 
 ### Sign Up Page
-![alt text](/image/sign-up-page.JPG)
+![](/image/sign-up-page.JPG)
 
 ### Navigation Bar
-![alt text](/image/nav-bar-mock-up-not-signed-in.JPG)
+![](/image/nav-bar-mock-up-not-signed-in.JPG)
 
 ### Add Profile Page
-![alt text](/image/add-profile-mock-up-page.JPG)
+![](/image/add-profile-mock-up-page.JPG)
 
 ### Admin Profile Page
-![alt text](/image/Admin-profile-mock-up-page.JPG)
+![](/image/Admin-profile-mock-up-page.JPG)
 
 ### Browse Opportunities Page
-![alt text](/image/Browse%20Opportunities-mock-up.JPG)
+![](/image/Browse%20Opportunities-mock-up.JPG)
 
 ### Edit Profile Page
-![alt text](/image/update-profile-mock-up-page.JPG)
+![](/image/update-profile-mock-up-page.JPG)
 
 ### Organization Library Page
-![alt text](/image/Organization-Library-mock-up-page.JPG)
+![](/image/Organization-Library-mock-up-page.JPG)
 
 ### User Profile Page
-![alt text](/image/profile-page-mock-up.JPG)
+![](/image/profile-page-mock-up.JPG)
 
 
 ## Team Members
