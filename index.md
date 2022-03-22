@@ -9,10 +9,10 @@
 - [Meet the Developers](#meet-the-developers)
 
 # Overview
-VolunteerAlly is a non-profit organization designed to help pair volunteers with organizations in need of service. The goal of the web application is to ease the user's experience when it comes to finding, applying, and volunteering for an organization. 
+VolunteerAlly is a non-profit organization designed to help pair volunteers with organizations in need of service. Thus, the rainbowgeeks team has designed a web application that aims to ease the user's experience when it comes to finding, applying, and volunteering for an organization.
 
 # Approach
-
+When a volunteer signs up for an account and creates their profile, ...
 
 # Deployment
 
