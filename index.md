@@ -5,7 +5,6 @@
 - [Developer Guide](#developer-guide)
 - [User Guide](#user-guide)
 - [Development History](#development-history)
-- [Community Feedback](#community-feedback)
 - [Meet the Developers](#meet-the-developers)
 
 # Overview
@@ -134,11 +133,9 @@ The following mockup pages will serve as a basis for the final implementation of
 # Development History
 
 - Goals of [Milestone 1](https://github.com/rainbowgeeks/rainbowgeeks/projects/1): Create Mockup Pages, start Front-End Development, and Initial Deployment
-- Goals of [Milestone 2](https://github.com/rainbowgeeks/rainbowgeeks/projects/1): Significantly improve functionality of app, continue Front-End Development
-- Goals of [Milestone 3](https://github.com/rainbowgeeks/rainbowgeeks/projects/1): Significantly improve functionality of app from M2, find at least five UH community members to test site, implement acceptance testing
-- Goals of [Milestone 4](https://github.com/rainbowgeeks/rainbowgeeks/projects/4): Significantly improve functionality of app from M2, find at least five UH community members to test site, implement acceptance testing
-
-# Community Feedback
+- Goals of [Milestone 2](https://github.com/rainbowgeeks/rainbowgeeks/projects/2): Significantly improve functionality of app, continue Front-End Development, meet with VolunteerAlly to discuss design decisions
+- Goals of [Milestone 3](https://github.com/rainbowgeeks/rainbowgeeks/projects/3): Significantly improve functionality of app from M2 with a focus on Organization user interaction with the website, continue Front-End and Back-End Development
+- Goals of [Milestone 4](https://github.com/rainbowgeeks/rainbowgeeks/projects/4): Significantly improve functionality of app from M3 with a focus on Volunteer user interaction with the website, continue Front-End and Back-End Development, meet with VolunteerAlly to discuss progress
 
 # Meet the Developers
 
