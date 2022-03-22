@@ -28,7 +28,9 @@ Some mockup pages include:
 - Organization Library
 
 # Deployment
-![ci-badge](https://github.com/rainbowgeeks/rainbowgeeks/workflows/ci-rainbowgeeks/badge.svg)
+Application is not currently deployed.
+
+![ci-badge](https://github.com/rainbowgeeks/rainbowgeeks/workflows/ci-matrp/badge.svg)
 
 # Developer Guide
 
