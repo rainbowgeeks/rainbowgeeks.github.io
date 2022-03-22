@@ -45,6 +45,79 @@ $ meteor npm install
 ```
 
 ## Running the Application
+- Upon completion of the installation process, ensure you are still in the rainbowgeeks/app directory and enter the following into the terminal:
+
+```
+$ meteor npm run start
+```
+
+- If this is your first time starting the application, it will create the default data. This should be the output:
+
+```
+=> Started proxy.
+=> Started MongoDB.
+I20220322-11:29:47.042(-10)? Creating the default user(s)
+I20220322-11:29:47.063(-10)?   Creating user admin@foo.com with role ADMIN.
+I20220322-11:29:47.171(-10)? Defining ADMIN admin@foo.com with password changeme
+I20220322-11:29:47.175(-10)?   Creating user john@foo.com with role USER.
+I20220322-11:29:47.284(-10)? Defining USER john@foo.com with password changeme
+I20220322-11:29:47.287(-10)?   Creating user perkin@foo.com with role USER.
+I20220322-11:29:47.381(-10)? Defining USER perkin@foo.com with password changeme
+I20220322-11:29:47.383(-10)?   Creating user robin@foo.com with role USER.
+I20220322-11:29:47.470(-10)? Defining USER robin@foo.com with password changeme
+I20220322-11:29:47.473(-10)?   Creating user americanredcross@foo.com with role ORGANIZATION.
+I20220322-11:29:47.572(-10)? Defining ORGANIZATION americanredcross@foo.com with password changeme
+I20220322-11:29:47.574(-10)?   Creating user hugs@foo.com with role ORGANIZATION.
+I20220322-11:29:47.658(-10)? Defining ORGANIZATION hugs@foo.com with password changeme
+I20220322-11:29:47.662(-10)?   Creating user paph@foo.com with role ORGANIZATION.
+I20220322-11:29:47.752(-10)? Defining ORGANIZATION paph@foo.com with password changeme
+I20220322-11:29:47.754(-10)?   Creating user readtome@foo.com with role ORGANIZATION.
+I20220322-11:29:47.837(-10)? Defining ORGANIZATION readtome@foo.com with password changeme
+I20220322-11:29:47.838(-10)?   Creating user htbg@foo.com with role ORGANIZATION.
+I20220322-11:29:47.924(-10)? Defining ORGANIZATION htbg@foo.com with password changeme
+I20220322-11:29:47.926(-10)?   Creating user hawaiihumane@foo.com with role ORGANIZATION.
+I20220322-11:29:48.010(-10)? Defining ORGANIZATION hawaiihumane@foo.com with password changeme
+I20220322-11:29:48.017(-10)? Creating default data.
+I20220322-11:29:48.017(-10)?   Adding: Basket (john@foo.com)
+I20220322-11:29:48.032(-10)?   Adding: Bicycle (john@foo.com)
+I20220322-11:29:48.034(-10)?   Adding: Banana (admin@foo.com)
+I20220322-11:29:48.036(-10)?   Adding: Boogie Board (admin@foo.com)
+I20220322-11:29:48.039(-10)? Creating default Organization.
+I20220322-11:29:48.040(-10)?  Adding Organization: The American Red Cross of Hawaii
+I20220322-11:29:48.096(-10)?  Adding Organization: HUGS
+I20220322-11:29:48.105(-10)?  Adding Organization: Protect and Preserve Hawaii
+I20220322-11:29:48.114(-10)?  Adding Organization: Read To Me International
+I20220322-11:29:48.124(-10)?  Adding Organization: Hawaii Tropical BioReserve & Garden
+I20220322-11:29:48.134(-10)?  Adding Organization: Hawaiian Humane Society
+I20220322-11:29:48.152(-10)? Creating default Opportunities.
+I20220322-11:29:48.209(-10)?  Adding: Disaster Response - Disaster Action Team (mattie@foo.com)
+I20220322-11:29:48.312(-10)?  Adding: View & Power BI Applications Lead 18+ (blake@foo.com)
+I20220322-11:29:48.344(-10)?  Adding: Regional Training Instructor (bary@foo.com)
+I20220322-11:29:48.374(-10)?  Adding: Hurricane Evacuation Shelter Volunteers (mattie@foo.com)
+I20220322-11:29:48.405(-10)?  Adding: Koa Memorial Garden (mac@foo.com)
+I20220322-11:29:48.436(-10)?  Adding: Crafting activity set up and break down (cullen@foo.com)
+I20220322-11:29:48.465(-10)?  Adding: SuperChill Saturday (felix@foo.com)
+I20220322-11:29:48.491(-10)?  Adding: Mauka Missions (felix@foo.com)
+I20220322-11:29:48.513(-10)?  Adding: Ho'omaluhia Botanical Garden (annabal@foo.com)
+I20220322-11:29:48.538(-10)?  Adding: Hawaiian Humane Society - Dog Walker (obadiah@foo.com)
+I20220322-11:29:48.558(-10)?  Adding: Test Opportunity (jackie@foo.com)
+I20220322-11:29:48.573(-10)? Creating default profile-users.
+I20220322-11:29:48.573(-10)?  Adding: John (john@foo.com)
+I20220322-11:29:48.587(-10)?  Adding: Marry (robin@foo.com)
+I20220322-11:29:48.589(-10)?  Adding: Perkin (perkin@foo.com)
+I20220322-11:29:48.634(-10)? Monti APM: completed instrumenting the app
+=> Started your app.
+
+=> App running at: http://localhost:3000/
+   Type Control-C twice to stop.
+
+```
+- You can now open up your app on a webpage at: [http://localhost:3000/](http://localhost:3000/)
+- To reset the app, exit meteor by pressing Control-C into the terminal, and type:
+
+```
+$ meteor reset
+```
 
 
 # User Guide
