@@ -119,8 +119,8 @@ I20220322-11:29:48.634(-10)? Monti APM: completed instrumenting the app
 $ meteor reset
 ```
 
-
 # User Guide
+The following mockup pages will serve as a basis for the final implementation of the project. 
 
 ## Landing Page
 
@@ -133,6 +133,7 @@ $ meteor reset
 
 # Development History
 
+# Community Feedback
 
 # Meet the Developers
 
