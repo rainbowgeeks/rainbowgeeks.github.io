@@ -12,7 +12,20 @@
 VolunteerAlly is a non-profit organization designed to help pair volunteers with organizations in need of service. Thus, the rainbowgeeks team has designed a web application that aims to ease the user's experience when it comes to finding, applying, and volunteering for an organization.
 
 # Approach
-When a volunteer signs up for an account and creates their profile, ...
+When a volunteer signs up for an account and creates their profile, they can add information about their interests, environmental preferences, and availability to better pair them with an organization or opportunity. 
+
+Representatives of organizations can also sign up for an account and post their opportunities as a way to find and recruit volunteers.
+
+Meanwhile, administrators monitor the site for inappropriate content or assist new users in the onboarding process.
+
+Some mockup pages include:
+- Landing page
+- About Us
+- Volunteer Profile
+- Organization Profile
+- Edit Profile
+- Browse Opportunities
+- Organization Library
 
 # Deployment
 
