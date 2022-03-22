@@ -35,6 +35,14 @@ Application is not currently deployed.
 # Developer Guide
 
 ## Installation
+- First, [install meteor](https://www.meteor.com/developers/install).
+- Second, download the [rainbowgeeks repository](https://github.com/rainbowgeeks/rainbowgeeks) into your local system.
+- Third, open a terminal and navigate into the rainbowgeeks/app directory.
+- Fourth, install the required meteor libraries by typing the following into the terminal:
+
+```
+$ meteor npm install
+```
 
 ## Running the Application
 
