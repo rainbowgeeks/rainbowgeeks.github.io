@@ -43,4 +43,10 @@
 
 
 # Meet the Developers
-- 
+
+- [Marcos Buccat]
+- [Kristian Lazo]
+- [Isaiah Eusebio]
+- [Jonathan Ma]
+- [Matthew Ito]
+- [John Suelen]
