@@ -28,7 +28,7 @@ Some mockup pages include:
 - Organization Library
 
 # Deployment
-
+![ci-badge](https://github.com/rainbowgeeks/rainbowgeeks/workflows/ci-rainbowgeeks/badge.svg)
 
 # Developer Guide
 
