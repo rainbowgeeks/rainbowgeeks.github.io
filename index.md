@@ -9,11 +9,7 @@
 - [Meet the Developers](#meet-the-developers)
 
 # Overview
-
-## The Problem
-
-## The Solution
-
+VolunteerAlly is a non-profit organization designed to help pair volunteers with organizations in need of service.
 
 # Approach
 
