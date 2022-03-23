@@ -136,7 +136,7 @@ Upon entering the website, the user can:
 ### Login Page
 <img src="doc/image/login-page-4.png">
 
-## Browse Opportunities Page
+### Browse Opportunities Page
 <img src="doc/image/user/browse-opportunities-4.png">
 
 ### About Us Page
@@ -145,23 +145,48 @@ Upon entering the website, the user can:
 ## Administrator
 Administrators have full access to the site and are able to manage volunteer accounts, organization accounts, and opportunties from the Admin Profile Page.
 
+### Admin Profile Page
+<img src="doc/image/admin/admin-profile-4.png">
+
 From this page, administrators can also:
 - Edit their account information
 - Change site preferences
 - View site analytics
 
-<img src="doc/image/admin/admin-profile-4.png">
+Using the following subsites, administrators can add, delete, or edit users and opportunity information.
 
-Using the following subsites, administratorss can add, delete, or edit users and opportunity information.
-
+### Manage Users Page
 <img src="doc/image/admin/manage-users-4.png">
+
+### Manage Organizations Page
 <img src="doc/image/admin/manage-org-4.png">
+
+### Manage Opportunities Page
 <img src="doc/image/admin/manage-opp-4.png">
 
 ## Organization User
+A member of an organization can sign up for an account as a representative of that organization to quickly and seamlessly find volunteers for their events.
+
+### Organization Profile Page
 <img src="doc/image/org/org-profile-page-4.png">
-<img src="doc/image/org/add-opp-4.png">
+
+From the Organization Profile Page, users can:
+- Edit user's account information and organization's account information
+- View and upload their organization's photos and videos
+- Manage their organization's opportunities
+- Manage other volunteers' opportunity requests
+- View their organization's analytics
+
+### Manage Opportunties Page
+
+Users can search or filter existing opportunities and then be able to add, edit, or delete opportunities.
+
 <img src="doc/image/org/manage-opp-4.png">
+
+### Add Opportunity Page
+<img src="doc/image/org/add-opp-4.png">
+
+Users can add an opportunity by inputting necessary information to properly describe it. Volunteers will then be able to view and sign up for these opportunities.
 
 ## Volunteer User
 <img src="doc/image/user/user-profile-page-4.png">
