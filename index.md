@@ -122,6 +122,25 @@ $ meteor reset
 The following mockup pages will serve as a basis for the final implementation of the project. 
 
 ## Landing Page
+<img src="doc/image/landing-page-m4.png">
+
+Upon entering the website, the user can:
+- Sign up for a new account
+- Log in to an existing account
+- Visit the Browse Opportunities page
+- Visit the About Us page
+
+### Sign Up Page
+<img src="doc/image/signup-page-4.png">
+
+### Login Page
+<img src="doc/image/login-page-4.png">
+
+## Browse Opportunities Page
+<img src="doc/image/user/browse-opportunities-4.png">
+
+### About Us Page
+<img src="doc/image/about-us-4.png">
 
 ## Administrator Login
 
