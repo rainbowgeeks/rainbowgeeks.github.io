@@ -178,10 +178,9 @@ From the Organization Profile Page, users can:
 - View their organization's analytics
 
 ### Manage Opportunties Page
+<img src="doc/image/org/manage-opp-4.png">
 
 Users can search or filter existing opportunities and then be able to add, edit, or delete opportunities.
-
-<img src="doc/image/org/manage-opp-4.png">
 
 ### Add Opportunity Page
 <img src="doc/image/org/add-opp-4.png">
@@ -189,12 +188,38 @@ Users can search or filter existing opportunities and then be able to add, edit,
 Users can add an opportunity by inputting necessary information to properly describe it. Volunteers will then be able to view and sign up for these opportunities.
 
 ## Volunteer User
-<img src="doc/image/user/user-profile-page-4.png">
+When a volunteer signs up for an account, they can create and customize their profile with interests, availability, etc.
+
+### Create New Profile Page
 <img src="doc/image/user/create-user-page-4.png">
+
+### Edit Profile Page
 <img src="doc/image/user/edit-profile-page-4.png">
+
+From the Volunteer Profile Page, users can:
+- View and edit their account information
+- View their total volunteer hours
+- View recommended organizations based on their interests and preferences
+
+### Volunteer Profile Page
+<img src="doc/image/user/user-profile-page-4.png">
+
+### Track Hours Page
 <img src="doc/image/user/track-hours-page-4.png">
+
+Volunteers can navigate to the Browse Opportunities Page to find opportunities that suit their interests.
+
+### Browse Opportunities Page
 <img src="doc/image/user/browse-opportunities-4.png">
+
+Upon clicking on an opportunity, volunteers can view more information about the opportunity as well as contact information of a member of the organization.
+
+### Example Opportunity Page
 <img src="doc/image/user/opportunity-page-4.png">
+
+Volunteers can also navigate to the Organization Library Page to search for organizations that have an account on VolunteerAlly. Upon clicking on an organization card, the user can learn more about the organization and the currently posted opportunities they are offering.
+
+### Organization Library Page
 <img src="doc/image/user/org-library-page-4.png">
 
 # Development History
