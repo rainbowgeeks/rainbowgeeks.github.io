@@ -142,11 +142,25 @@ Upon entering the website, the user can:
 ### About Us Page
 <img src="doc/image/about-us-4.png">
 
-## Administrator Login
+## Administrator
+Administrators have full access to the site and are able to manage volunteer accounts, organization accounts, and opportunties from the Admin Profile Page.
 
-## Organization Login
+From this page, administrators can also:
+- Edit their account information
+- Change site preferences
+- View site analytics
 
-## Volunteer Login
+<img src="doc/image/admin/admin-profile-4.png">
+
+Using the following subsites, administratorss can add, delete, or edit users and opportunity information.
+
+<img src="doc/image/admin/manage-users-4.png">
+<img src="doc/image/admin/manage-org-4.png">
+<img src="doc/image/admin/manage-opp-4.png">
+
+## Organization User
+
+## Volunteer User
 
 
 # Development History
