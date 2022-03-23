@@ -159,9 +159,18 @@ Using the following subsites, administratorss can add, delete, or edit users and
 <img src="doc/image/admin/manage-opp-4.png">
 
 ## Organization User
+<img src="doc/image/org/org-profile-page-4.png">
+<img src="doc/image/org/add-opp-4.png">
+<img src="doc/image/org/manage-opp-4.png">
 
 ## Volunteer User
-
+<img src="doc/image/user/user-profile-page-4.png">
+<img src="doc/image/user/create-user-page-4.png">
+<img src="doc/image/user/edit-profile-page-4.png">
+<img src="doc/image/user/track-hours-page-4.png">
+<img src="doc/image/user/browse-opportunities-4.png">
+<img src="doc/image/user/opportunity-page-4.png">
+<img src="doc/image/user/org-library-page-4.png">
 
 # Development History
 
