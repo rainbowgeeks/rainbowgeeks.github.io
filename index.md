@@ -164,6 +164,9 @@ Using the following subsites, administrators can add, delete, or edit users and 
 ### Manage Opportunities Page
 <img src="doc/image/admin/manage-opp-4.png">
 
+### Analytics Page
+<img src="doc/image/admin/analytics-6.png">
+
 ## Organization User
 A member of an organization can sign up for an account as a representative of that organization to quickly and seamlessly find volunteers for their events.
 
