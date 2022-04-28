@@ -171,7 +171,7 @@ Using the following subsites, administrators can add, delete, or edit users and 
 A member of an organization can sign up for an account as a representative of that organization to quickly and seamlessly find volunteers for their events.
 
 ### Organization Profile Page
-<img src="doc/image/org/org-profile-page-4.png">
+<img src="doc/image/org/org-profile-page-6.png">
 
 From the Organization Profile Page, users can:
 - Edit user's account information and organization's account information
