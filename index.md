@@ -210,12 +210,12 @@ From the Volunteer Profile Page, users can:
 Volunteers can navigate to the Browse Opportunities Page to find opportunities that suit their interests.
 
 ### Browse Opportunities Page
-<img src="doc/image/user/browse-opportunities-4.png">
+<img src="doc/image/user/browseopps-6.png">
 
 Upon clicking on an opportunity, volunteers can view more information about the opportunity as well as contact information of a member of the organization.
 
 ### Example Opportunity Page
-<img src="doc/image/user/opportunity-page-4.png">
+<img src="doc/image/user/opp-6.png">
 
 Volunteers can also navigate to the Organization Library Page to search for organizations that have an account on VolunteerAlly. Upon clicking on an organization card, the user can learn more about the organization and the currently posted opportunities they are offering.
 
