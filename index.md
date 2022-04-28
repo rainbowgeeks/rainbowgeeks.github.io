@@ -119,7 +119,7 @@ $ meteor reset
 ```
 
 # User Guide
-The following mockup pages will serve as a basis for the final implementation of the project. 
+The following pages will serve as a representation of the final implementation of the project. 
 
 ## Landing Page
 <img src="doc/image/landing-page-m4.png">
