@@ -186,7 +186,7 @@ From the Organization Profile Page, users can:
 Users can search or filter existing opportunities and then be able to add, edit, or delete opportunities.
 
 ### Add Opportunity Page
-<img src="doc/image/org/add-opp-4.png">
+<img src="doc/image/org/add-opp-6.png">
 
 Users can add an opportunity by inputting necessary information to properly describe it. Volunteers will then be able to view and sign up for these opportunities.
 
