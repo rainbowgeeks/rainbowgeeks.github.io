@@ -140,7 +140,7 @@ Upon entering the website, the user can:
 <img src="doc/image/user/browse-opportunities-4.png">
 
 ### About Us Page
-<img src="doc/image/about-us-4.png">
+<img src="doc/image/about-us-6.png">
 
 ## Administrator
 Administrators have full access to the site and are able to manage volunteer accounts, organization accounts, and opportunties from the Admin Profile Page.
