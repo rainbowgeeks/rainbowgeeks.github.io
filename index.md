@@ -190,6 +190,11 @@ Users can search or filter existing opportunities and then be able to add, edit,
 
 Users can add an opportunity by inputting necessary information to properly describe it. Volunteers will then be able to view and sign up for these opportunities.
 
+### Manage Hours Page
+<img src="doc/image/org/manage-hours-6.png">
+
+Users can approve 
+
 ## Volunteer User
 When a volunteer signs up for an account, they can create and customize their profile with interests, availability, etc.
 
