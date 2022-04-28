@@ -192,8 +192,9 @@ Users can add an opportunity by inputting necessary information to properly desc
 
 ### Manage Hours Page
 <img src="doc/image/org/manage-hours-6.png">
+<img src="doc/image/org/vol-hours-6.png">
 
-Users can approve 
+Users can approve volunteer hours for each opportunity and export the data as a PDF.
 
 ## Volunteer User
 When a volunteer signs up for an account, they can create and customize their profile with interests, availability, etc.
